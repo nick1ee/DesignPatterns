@@ -1,7 +1,5 @@
 # 工廠設計模式 (Factory Design Pattern)
 
----
-
 **種類: 創建型模式(Creational Pattern)**
 
 ### Pros
@@ -31,4 +29,5 @@
 
 ### Reference
 [工廠設計模式 (Factory Design Pattern)](https://carsonwah.github.io/factory-design-pattern.html)
+
 [Design Patterns: Abstract Factory vs Factory Method](https://stackoverflow.com/questions/4209791/design-patterns-abstract-factory-vs-factory-method/4211307#4211307)

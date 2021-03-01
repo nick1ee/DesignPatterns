@@ -1,7 +1,5 @@
 # 建造者設計模式 (Builder Design Pattern)
 
----
-
 **種類: 創建型模式(Creational Pattern)**
 
 ### Pros
@@ -18,5 +16,7 @@
 
 ### Reference
 [The Builder Design Pattern](https://www.bradcypert.com/design-patterns-builder/)
+
 [設計模式—建造者模式 (Builder Design Pattern)](https://medium.com/wenchin-rolls-around/%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F-%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F-builder-design-pattern-7c8eac7c9a7)
+
 [Design Pattern(10) - Builder](https://www.jyt0532.com/2017/06/29/builder/)
