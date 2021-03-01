@@ -14,7 +14,7 @@
 
 ### When to use?
 1. 在建構子參數過多的情況下，為了解決 Telescoping Constructor(Constructor 互相呼叫)
-2. 類似抽象工廠，但可以想成是應用於抽象工廠之上的概念，透過抽象工廠的實作，建構出更大的組合。
+2. 類似抽象工廠，但可以想成是應用於抽象工廠之上的概念，透過抽象工廠的實作與 Variadic Parameters，建構出更大的組合。
 
 ### Reference
 [The Builder Design Pattern](https://www.bradcypert.com/design-patterns-builder/)
